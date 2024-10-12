@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Navigation</string>
+    <string name="first_activity_background_text">A</string>
+    <string name="second_activity_background_text">B</string>
+    <string name="third_activity_background_text">C</string>
+    <string name="button_text">Next ></string>
 </resources>
