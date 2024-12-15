@@ -12,7 +12,5 @@
         android:id="@+id/recyclerView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/dark"
-        android:paddingTop="8dp"
-        android:paddingBottom="8dp" />
+        android:background="@color/dark" />
 </LinearLayout>
